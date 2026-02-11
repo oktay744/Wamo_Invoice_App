@@ -3,10 +3,6 @@ This application was made to create invoices quickly. The desired values ​​a
 TailwindCSS was used for ui, html2canvas was used for pdf conversions, react hook form was used for form structure.
 
 
-# Application Link
-https://wamo-invoice-app.vercel.app/
-
-
 ## Requirements
 - React.js
 
