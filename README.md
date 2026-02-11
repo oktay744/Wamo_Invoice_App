@@ -5,8 +5,6 @@ TailwindCSS was used for ui, html2canvas was used for pdf conversions, react hoo
 
 # Application Link
 https://wamo-invoice-app.vercel.app/
-## Youtube Link
-https://www.youtube.com/watch?v=wsXd95K-hLc
 
 
 ## Requirements
